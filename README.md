@@ -1,1 +1,1 @@
-To include machine learning projects 
+To eventually contain coding projects related to machine learning
